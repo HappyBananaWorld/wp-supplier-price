@@ -1,0 +1,15 @@
+{
+    "name": "asaidea.ir/wp-supplier-price",
+    "autoload": {
+        "psr-4": {
+            "XYZSP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sajad Mirave",
+            "email": "sajad.dev.personal@gmail.com"
+        }
+    ],
+    "require": {}
+}
